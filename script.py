@@ -1,1 +1,0 @@
-print("Primeira linha de código")
